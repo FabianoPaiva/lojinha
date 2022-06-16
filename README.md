@@ -13,6 +13,6 @@ markdown
 * Executar o main da classe LojinhaApp
 
 
-## Meus contatos
+## Meu contato
 * Nome: Fabiano
 * email: fabianopaiva01@gmail.com
