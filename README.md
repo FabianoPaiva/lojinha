@@ -9,10 +9,9 @@ markdown
 
 ## Como executar a aplicação
 
-* Baixar a aplicação
 * Executar o main da classe LojinhaApp
 
-
 ## Meu contato
+
 * Nome: Fabiano
 * email: fabianopaiva01@gmail.com
