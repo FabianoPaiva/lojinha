@@ -52,13 +52,6 @@ public class Produto {
     public void setTamanho(Tamanho novoTamanho) {
         this.tamanho = novoTamanho;
     }
-//    public void setTamanho(String novoTamanho) {
-//        if(novoTamanho.equalsIgnoreCase("Pequeno") || novoTamanho.equalsIgnoreCase("Médio") || novoTamanho.equalsIgnoreCase("Grande")) {
-//            this.tamanho = novoTamanho;
-//        }else {
-//            throw new IllegalArgumentException("Tamanho pode ser Pequeno, Médio ou Grande");
-//        }
-//    }
 
     public List<ItemIncluso> getIteisInclusos() {
         return this.iteisInclusos;

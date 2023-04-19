@@ -30,19 +30,9 @@ public class LojinhaApp {
         meuProduto.setIteisInclusos(iteisInclusos);
 
         System.out.println(meuProduto.getIteisInclusos().get(1));
-        // System.out.println(meuProduto.getIteisInclusos());
-        // System.out.println(meuProduto.getIteisInclusos().size());
-
         System.out.println(meuProduto.getTamanho());
         System.out.println(meuProduto.getValor());
         System.out.println(meuProduto.getMarca());
-
-//        System.out.println(meuProduto.getIteisInclusos().get(0).getNome());
-//        System.out.println(meuProduto.getIteisInclusos().get(0).getQuantidade());
-//        System.out.println(meuProduto.getIteisInclusos().get(1).getNome());
-//        System.out.println(meuProduto.getIteisInclusos().get(1).getQuantidade());
-//        System.out.println(meuProduto.getIteisInclusos().get(2).getNome());
-//        System.out.println(meuProduto.getIteisInclusos().get(2).getQuantidade());
 
         System.out.println("Comesando a apresentar os itens");
 
